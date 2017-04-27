@@ -1,0 +1,78 @@
+{
+   "extDescription": {
+      "description": "Extension's description",
+      "message": "Diese Erweiterung blendet die lästige Download-Leist an der Unterseite des Bildschirms aus."
+   },
+   "extName": {
+      "description": "Extension's name",
+      "message": "AutoHideDownloadsBar"
+   },
+   "extShortName": {
+      "description": "Extension's short name",
+      "message": "AutoHideDownloadsBar"
+   },
+   "extTitle": {
+      "description": "Extension's title",
+      "message": "Öffne Download Seite"
+   },
+   "localization": {
+      "description": "Extension's Localization",
+      "message": "de"
+   },
+   "optButtonSave": {
+      "description": "Save button name",
+      "message": "Einstellungen speichern"
+   },
+   "optButtonSave_process": {
+      "description": "Save button name",
+      "message": "Speichern..."
+   },
+   "optButtonSave_processed": {
+      "description": "Save button name",
+      "message": "Einstellungen gespeichert!"
+   },
+   "optDescHideIconInfo": {
+      "description": "full description option - HideIconInfo",
+      "message": "Kann die Systembelastung deutlich reduzieren"
+   },
+   "optDescShowDownBar": {
+      "description": "full description option - ShowDownbar",
+      "message": "Das Verstecken der Download-Leiste erfolgt erst nach dem Download"
+   },
+   "optDescShowLastProgress": {
+      "description": "full description option - ShowLastProgress",
+      "message": "Standardmäßig wird der Download-Fortschritt aller heruntergeladenen Dateien angezeigt"
+   },
+   "optDonate": {
+      "description": "Donate button",
+      "message": "Spenden"
+   },
+   "optHideIconInfo": {
+      "description": "short description option - HideIconInfo",
+      "message": "Downloadfortschritt in der Sysmbolleiste ausblenden (Prozent)"
+   },
+   "optHideIconInfo_tooltip": {
+      "description": "short description tooltip - HideIconInfo",
+      "message": "Standardwert ist deaktiviert"
+   },
+   "optSetting": {
+      "description": "setting title",
+      "message": "Einstellungen"
+   },
+   "optShowDownBar": {
+      "description": "short description option - ShowDownbar",
+      "message": "Download-Leiste anzeigen, wenn der Download aktiv ist"
+   },
+   "optShowDownBar_tooltip": {
+      "description": "short description tooltip",
+      "message": "Standardwert ist deaktiviert"
+   },
+   "optShowLastProgress": {
+      "description": "short description option - ShowLastProgress",
+      "message": "Zeige nur den Download Fortschritt der letzte heruntergeladenen Datei"
+   },
+   "optShowLastProgress_tooltip": {
+      "description": "short description tooltip - ShowLastProgress",
+      "message": "Standardwert ist deaktiviert"
+   }
+}
